@@ -1,4 +1,4 @@
-# AnimacionCigue-aA-il
+# Animación Cigueña Añil
 Proyecto BitsXLaMarato Eloi Sevilla López, Abel Reyes Cañabate
 
 ## Como testear
